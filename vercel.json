@@ -1,8 +1,1 @@
-{
-  "rewrites": [
-    {
-      "source": "/api/:match*",
-      "destination": "https://music.tsinbei.com/:match*"
-    }
-  ]
-}
+
